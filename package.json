@@ -1,5 +1,5 @@
 {
-  "name": "snake",
+  "name": "ekans",
   "version": "1.0.0",
   "description": "vanila js snake game",
   "main": "src/index.js",
